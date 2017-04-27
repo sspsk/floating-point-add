@@ -1,2 +1,5 @@
 # floating-point-add
-this is an algorithm for adding  two 16bit floating point numbers in c and assembly
+# Author: sspsk Email:kdstsdk@gmail.com
+#
+This is an algorithm for adding  two 16bit floating point numbers in c and assembly. 
+Project for the second semester in my university.
