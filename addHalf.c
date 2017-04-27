@@ -1,3 +1,5 @@
+//author: sspsk Email:kdstsdk@gmail.com
+//-------------------------------------
 half addhalf( const half a, const half b ) {
 
   half sum = 0;
