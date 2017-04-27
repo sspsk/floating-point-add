@@ -1,3 +1,5 @@
+#author: sspsk Email:kdstsdk@gmail.com
+#-------------------------------------
 # temp is $t0
 # temp1 is $t1
 # temp2 is $t2
